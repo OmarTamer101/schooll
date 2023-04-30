@@ -1,0 +1,320 @@
+.home-child,
+.home-item {
+    position: absolute;
+    left: 0;
+    width: 2355px;
+}
+
+.home-child {
+    top: 0;
+    background-color: var(--color-white);
+    border: 1px solid var(--color-dimgray);
+    box-sizing: border-box;
+    height: 293px;
+}
+
+.home-item {
+    top: 293px;
+    background-color: var(--color-indigo);
+    height: 129px;
+}
+
+.we-ats-removebg-preview-2-icon {
+    position: absolute;
+    top: -142px;
+    left: -168px;
+    width: 1029px;
+    height: 564px;
+    object-fit: cover;
+}
+
+.home-inner,
+.rectangle-div {
+    position: absolute;
+    top: 115px;
+    right: 70px;
+    height: 83px;
+}
+
+.home-inner {
+    background-color: var(--color-white);
+    border: 1px solid var(--color-indigo);
+    box-sizing: border-box;
+    width: 535px;
+}
+
+.rectangle-div {
+    background-color: var(--color-indigo);
+    width: 78px;
+}
+
+.about-us,
+.contact,
+.curriculum,
+.home1,
+.news,
+.parents,
+.students {
+    position: absolute;
+    top: 335px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.home1 {
+    left: 372px;
+    opacity: 0.86;
+}
+
+.about-us,
+.contact,
+.curriculum,
+.news,
+.parents,
+.students {
+    left: 571px;
+}
+
+.contact,
+.curriculum,
+.news,
+.parents,
+.students {
+    left: 831px;
+}
+
+.contact,
+.news,
+.parents,
+.students {
+    left: 1140px;
+}
+
+.contact,
+.news,
+.parents {
+    left: 1402px;
+}
+
+.contact,
+.news {
+    left: 1640px;
+}
+
+.contact {
+    left: 1833px;
+}
+
+.search-site {
+    position: absolute;
+    top: 136px;
+    left: 1792px;
+    font-size: 28px;
+    color: #000;
+    opacity: 0.67;
+}
+
+.icons8-search {
+    position: absolute;
+    top: 133.02px;
+    left: 1725.83px;
+    width: 24.02px;
+    height: 24.02px;
+}
+
+.home-child1 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: var(--color-indigo);
+    border: 1px solid var(--color-dimgray);
+    box-sizing: border-box;
+    width: 2378px;
+    height: 276px;
+}
+
+.icons8-search1 {
+    position: absolute;
+    top: 141px;
+    right: 95.5px;
+    width: 27.01px;
+    height: 27.01px;
+}
+
+.bdafe1-44cd-4f60-b1dc-9c055cda-icon {
+    position: absolute;
+    top: 465px;
+    left: 261px;
+    width: 1718px;
+    height: 966px;
+    object-fit: cover;
+}
+
+.home-child2,
+.home-child3,
+.home-child4,
+.home-child5 {
+    position: absolute;
+    top: 1460px;
+    left: 685px;
+    background-color: #00c2ff;
+    border: 1px solid var(--color-dimgray);
+    box-sizing: border-box;
+    width: 435px;
+    height: 216px;
+}
+
+.home-child3,
+.home-child4,
+.home-child5 {
+    left: 258px;
+    background-color: #6b4688;
+}
+
+.home-child4,
+.home-child5 {
+    left: 1120px;
+    background-color: #ffa509;
+}
+
+.home-child5 {
+    left: 1544px;
+    background-color: #ff0080;
+}
+
+.icons8-next-page-30 {
+    position: absolute;
+    bottom: 328.19px;
+    left: 450.57px;
+    width: 50.86px;
+    height: 50.03px;
+}
+
+.welcome {
+    position: absolute;
+    top: 1474px;
+    left: 387px;
+    font-size: var(--font-size-18xl);
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.message-from-the {
+    position: absolute;
+    top: 1534px;
+    left: 349px;
+    font-size: var(--font-size-7xl);
+    opacity: 0.95;
+}
+
+.icons8-next-page-301 {
+    position: absolute;
+    bottom: 328.19px;
+    left: 877.07px;
+    width: 50.86px;
+    height: 50.03px;
+}
+
+.latest-news {
+    position: absolute;
+    top: 1474px;
+    left: 784.5px;
+    font-size: var(--font-size-18xl);
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.whats-is-happing {
+    position: absolute;
+    top: 1534px;
+    left: 757.5px;
+    font-size: var(--font-size-7xl);
+    opacity: 0.95;
+}
+
+.icons8-next-page-302 {
+    position: absolute;
+    bottom: 328.19px;
+    left: 1312.07px;
+    width: 50.86px;
+    height: 50.03px;
+}
+
+.upcoming-events {
+    position: absolute;
+    top: 1474px;
+    left: 1168.5px;
+    font-size: var(--font-size-18xl);
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.dates-for-your {
+    position: absolute;
+    top: 1534px;
+    left: 1210.5px;
+    font-size: var(--font-size-7xl);
+    opacity: 0.95;
+}
+
+.icons8-next-page-303 {
+    position: absolute;
+    bottom: 328.19px;
+    left: 1736.07px;
+    width: 50.86px;
+    height: 50.03px;
+}
+
+.prospectus {
+    position: absolute;
+    top: 1474px;
+    left: 1650px;
+    font-size: var(--font-size-18xl);
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.download-the-latest {
+    position: absolute;
+    top: 1534px;
+    left: 1595px;
+    font-size: var(--font-size-7xl);
+    opacity: 0.95;
+}
+
+.we-school-for {
+    position: absolute;
+    bottom: 25px;
+    left: 43px;
+    font-size: 43px;
+    display: inline-block;
+    width: 2225px;
+    height: 197px;
+}
+
+.student-transparent {
+    position: absolute;
+    right: -79px;
+    bottom: 246px;
+    width: 550px;
+    height: 550px;
+}
+
+.developer-isometric-people-wor {
+    position: absolute;
+    bottom: 222px;
+    left: -124px;
+    width: 511px;
+    height: 511px;
+}
+
+.home {
+    position: relative;
+    background: linear-gradient(230.4deg, #f565ff, #000);
+    width: 100%;
+    height: 1976px;
+    text-align: left;
+    font-size: var(--font-size-15xl);
+    color: var(--color-white);
+    font-family: var(--font-segoe-ui);
+}
